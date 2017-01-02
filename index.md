@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Share Space
 
 You can use the [editor on GitHub](https://github.com/Elbertbiggs360/elbertbiggs360.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,25 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
