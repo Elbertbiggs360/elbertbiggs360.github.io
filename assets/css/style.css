@@ -123,7 +123,10 @@ button, html [type="button"], [type="reset"], [type="submit"] {
     margin-right: 10px;
     margin-left: -2px;
     color: #333;
+    background-image: -webkit-linear-gradient(200deg, #bd001c 0%, #8e1174 100%);
+    background-image: linear-gradient(-110deg, #bd001c 0%, #8e1174 100%);
     white-space: nowrap;
+    border-radius: 3em;
 }
 .site-header-menu {
     display: block;
@@ -158,10 +161,10 @@ button, html [type="button"], [type="reset"], [type="submit"] {
     height: 4px;
     content: "";
 }
-.site-header-nav-main .selected.nav-item-explore {
+.site-header-nav-main .selected {
     color: #0091ea;
 }
-.site-header-nav-main .selected.nav-item-explore::after {
+.site-header-nav-main .selected::after {
     background-color: #0091ea;
 }
 .intgrs-dir-intro {
@@ -393,4 +396,15 @@ ul, menu, dir {
     font-weight: normal;
     line-height: 28px;
     text-align: center;
+}
+.site-footer-links li {
+    display: inline-block;
+    line-height: 16px;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.site-footer-links li+li {
+    margin-left: 10px;
 }
