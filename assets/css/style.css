@@ -417,6 +417,17 @@ li {
 .site-header-nav-secondary {
     float: right;
     margin-top: 0px;
+    display: none;
+}
+
+@media (min-width: 768px) {
+
+.site-header-nav-secondary {
+    float: right;
+    margin-top: 0px;
+    display: block;
+}
+
 }
 .social {
     margin: 0 5px;
