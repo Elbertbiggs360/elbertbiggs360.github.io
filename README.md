@@ -8,3 +8,7 @@ Visit the site url shown above to access the site content
 
 I am thankful to these sources for some of the site assets
 - Freepik: <a href='http://www.freepik.com/free-vector/large-round-icons-pack_745440.htm'>Freepik</a>
+
+#License
+
+Powered by SDE, Inc ©2017. Code licensed under an [MIT-style](https://elbertbiggs360.github.io/license.md) License.
