@@ -1,5 +1,5 @@
 #[elbertbiggs360.github.io](http://elbertbiggs360.github.io)
-[![Visit the site](https://elbertbiggs360.github.io/assets/images/ship.svg)](https://elbertbiggs360.github.io/)
+[![Visit the site](https://elbertbiggs360.github.io/assets/images/logo.png)](https://elbertbiggs360.github.io/)
 ## Usage
 
 Visit the site url shown above to access the site content
