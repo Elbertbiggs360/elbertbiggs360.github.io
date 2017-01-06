@@ -181,6 +181,9 @@ button, html [type="button"], [type="reset"], [type="submit"] {
     background-image: linear-gradient(-110deg, #bd001c 0%, #8e1174 100%);
     border-bottom: 0;
 }
+.projects {
+    background-image: url('../images/banner.png');
+}
 .marketing-section {
     position: relative;
     padding-top: 80px;
@@ -402,6 +405,20 @@ ul, menu, dir {
     font-weight: normal;
     line-height: 28px;
     text-align: center;
+    color:#f42156;
+}
+.project h1{
+    color:#000000;
+}
+.pagehead h2 {
+    margin-top: 2em;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: italic;
+    color:#f42156;
+    line-height: 28px;
+    text-align: center;
 }
 .site-footer-links li {
     display: inline-block;
@@ -454,4 +471,7 @@ li {
 .signup a:hover {
     color: #fff;
     background: #f42156;
+}
+.extra {
+    margin-left:85%;
 }
