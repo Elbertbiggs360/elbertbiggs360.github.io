@@ -184,6 +184,17 @@ button, html [type="button"], [type="reset"], [type="submit"] {
 .projects {
     background-image: url('../images/banner.png');
 }
+.badge {
+    margin-right:27%;
+    padding: auto;
+}
+.badge-holder {
+    margin-top:1em;
+}
+.badge-label {
+    vertical-align: middle;
+}
+
 .marketing-section {
     position: relative;
     padding-top: 80px;
@@ -201,6 +212,17 @@ button, html [type="button"], [type="reset"], [type="submit"] {
     display: table;
     clear: both;
     content: "";
+}
+.download {
+    width: 200px;
+    padding: 2px 40px;
+    margin:auto;
+    cursor: auto;
+    border: 1px solid #ededed;
+    border-radius: 4px;
+}
+.download:hover {
+    background-color: #eee;
 }
 .container {
     width: 980px;
@@ -334,8 +356,11 @@ svg:not(:root) {
     padding-right: 40px;
     padding-left: 0;
 }
+.more-half {
+    width: 70%;/*for half width */
+}
 .one-half {
-    width: 100%;/*for half width */
+    width:100%;
 }
 .intgrs-dir .marketing-graphic {
     padding-right: 0;
