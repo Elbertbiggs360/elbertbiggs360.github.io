@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/aenkya
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://enkya.org
+  * I am aenkya (https://keybase.io/aenkya) on keybase.
+  * I have a public key ASDUFAm2dOPkSy1pyb2kxLXqQBs5m28MKEQbx25f0sJq6go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ecd3d91f807ae3fb48af315b63c693a2a106a24df68ed15e105a865c45a22b6b0a",
+      "host": "keybase.io",
+      "kid": "0120d41409b674e3e44b2d69c9bda4c4b5ea401b399b6f0c28441bc76e5fd2c26aea0a",
+      "uid": "da206340909bac6bcd1c39a5f95dbb19",
+      "username": "aenkya"
+    },
+    "merkle_root": {
+      "ctime": 1534228949,
+      "hash": "55ffcf55afb13aa9712c0127343956c24029cb708871a5a28df6a7814cb883bc0e7cb5634e1f83f13abb0b01bb8112aa7d5cce4445567dea4abb87e0af4adde3",
+      "hash_meta": "bf0bdf1e4abec92b8646f08d81248f6b173e35340374cd4f233c41717159970c",
+      "seqno": 3452441
+    },
+    "service": {
+      "entropy": "TznhtpxenqmhjpJdshP9Ak7+",
+      "hostname": "enkya.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1534228993,
+  "expire_in": 504576000,
+  "prev": "0f6eba0c6c23b9988ec1dee8ad23d67ad061d4d85af6cd1582ce9576c255d801",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1BQJtnTj5Estacm9pMS16kAbOZtvDChEG8duX9LCauoKp3BheWxvYWTESpcCDsQgD266DGwjuZiOwd7orSPWetBh1Nha9s0Vgs6VdsJV2AHEIKBG/rLOFOe3HaqnOtjEjM17Y4tte+TvI/VW9sFdSMm7AgHCo3NpZ8RABcZpdieFNp+1ekpD2kVafVPgTIThRqkfzH3jNndB0XqCycPEARbC8Fj+o7/vLM9zCBKrJqLl/pVs1YRNxSdOCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJCz4VMoAjBphQVPAtwdbI+DoNkxzLcqHkNG8NoFOcigo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aenkya
+
+==================================================================
